@@ -19,7 +19,7 @@ FitPoints is a mobile-first web app that gamifies fitness by letting you unlock 
 
 ## 📲 Live Demo
 
-> 🔗 _Coming Soon or insert Netlify/Vercel link here_
+> 🔗 https://fitpoints.netlify.app/
 
 ---
 
