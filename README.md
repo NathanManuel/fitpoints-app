@@ -1,8 +1,10 @@
-# 🧊 FitPoints – Mini Fridge Reward Tracker
+<img width="388" height="850" alt="image" src="https://github.com/user-attachments/assets/c9863267-a2d0-48cc-9964-6608471e46a0" /># 🧊 FitPoints – Mini Fridge Reward Tracker
 
 FitPoints is a mobile-first web app that gamifies fitness by letting you unlock items from your mini fridge (cola, snacks, water, etc.) using points earned through exercise. Built with React, TypeScript, and Tailwind CSS, this app is designed for personal motivation and habit building.
 
-![FitPoints Screenshot](./screenshot.png) <!-- Optional: Add your own screenshot -->
+
+<img width="388" height="850" alt="Screenshot 2025-07-26 150528" src="https://github.com/user-attachments/assets/2f045a97-0794-4c92-9f77-de89ed478ecb" />
+
 
 ---
 
